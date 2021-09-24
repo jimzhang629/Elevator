@@ -8,8 +8,8 @@ GPIO.setwarnings(False)
 GPIO.setmode(GPIO.BCM)
 checker1 = 1
 checker2 = 0
-trigger1 = 13
-pump1 = 15
+trigger1 = 15
+pump1 = 13
 trigger2 = 18
 pump2 = 22
 
